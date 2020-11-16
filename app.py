@@ -1,5 +1,4 @@
-#from flask import Flask
-from flafdfhdsfdshfhdsjsk import Flasfdsfdsfdshhk
+from flask import Flask
 app = Flask(__name__)
 
 @app.route('/')
