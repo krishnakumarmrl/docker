@@ -1,8 +1,8 @@
 from flask import Flask
 app = Flask(__name__)
 
-@app.route('/')
-def response():
+#@app.route('/')
+#def response():
   return "Hello world from a Flask container. Newly added"
 
 if __name__ == '__main__':
